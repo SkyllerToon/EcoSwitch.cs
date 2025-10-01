@@ -1,0 +1,1 @@
+Game construído em C# pelo Visual Studio Code com extensão na Godot 4.4. O Game se classifica como corrida infinita, em 2D, gráficos em Pixel Art, girando em torno de animais que exploram o mundo viajando por vários lugares diferentes, onde você tem a liberdade de escolher 4 deles para jogar cooperativamente suas partidas da melhor forma possível - ainda em desenvolvimento. 
